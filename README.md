@@ -39,8 +39,8 @@ FaceDetection/
 |-- Face_Detection.ipynb       # Step 3: Train the CNN model (Google Colab / Jupyter)
 |
 |-- images/                    # Raw captured face images (named as <person>_<index>.jpg)
-|   |-- aditya_2.jpg
-|   |-- aditya_3.jpg
+|   |-- image_1.jpg
+|   |-- image_2.jpg
 |   `-- ...
 |
 |-- data/
